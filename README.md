@@ -1,8 +1,8 @@
-# Variant Annotation and Effect Prediction of TSF7L2 gene with SNPEFF
+# Variant Annotation and Effect Prediction of TCF7L2 gene with SNPEFF
 
 ## Overview
 
-This project focuses on the Variant Annotation and Effect Prediction of the **TSF7L2** gene, a key genetic locus associated with **Type 2 Diabetes(T2D)** susceptiblity.  Using **SnpEff**, a robust genomic variant annotation tool, this study provides insights into the functional consequences of genetic variations within the TCF7L2 gene.  By leveraging a curated **.VCF** file containing SNP data and the **GRCh38** reference genome, this project aims to elucidate the biological significance of known variants, such as **rs7903146**, and their impact on coding regions, regulatory elements, and gene expression pathways.
+This project focuses on the Variant Annotation and Effect Prediction of the **TCF7L2** gene, a key genetic locus associated with **Type 2 Diabetes(T2D)** susceptiblity.  Using **SnpEff**, a robust genomic variant annotation tool, this study provides insights into the functional consequences of genetic variations within the TCF7L2 gene.  By leveraging a curated **.VCF** file containing SNP data and the **GRCh38** reference genome, this project aims to elucidate the biological significance of known variants, such as **rs7903146**, and their impact on coding regions, regulatory elements, and gene expression pathways.
 
 ## Table of Contents
  - [Introduction](#introduction)
